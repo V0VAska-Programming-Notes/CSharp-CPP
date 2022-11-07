@@ -90,4 +90,3 @@ namespace Mixed_Mode_Calling_App
 Select Debug in the left pane, select Open debug launch profiles UI, then select the Enable native code debugging check box, and then close the properties page to save the changes.
 
 3. If you are targeting an x64 DLL from a .NET Framework app, change the platform target from Any CPU to x64. To do this, you may need to select Configuration Manager from the Debug toolbar's Solution Platform drop-down. Then, if you can't switch to x64 directly, create a New Configuration that targets x64.
-
